@@ -1,0 +1,15 @@
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/bin/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/bin/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.deps.json
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/bin/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.runtimeconfig.json
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/bin/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.dll
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/bin/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.pdb
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.csproj.AssemblyReference.cache
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.AssemblyInfoInputs.cache
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.AssemblyInfo.cs
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.csproj.CoreCompileInputs.cache
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.dll
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/refint/EnterOnlyNumbersUsingDoWhileLoop.dll
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.pdb
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/EnterOnlyNumbersUsingDoWhileLoop.genruntimeconfig.cache
+/home/saint/Desktop/EnterOnlyNumbersUsingDoWhileLoop/obj/Debug/net6.0/ref/EnterOnlyNumbersUsingDoWhileLoop.dll
